@@ -15,7 +15,7 @@
 
 ---
 
-## 📋 Table of Contents
+## 📋 Table of Contents 
 
 - [About The Project](#about-the-project)
 - [Features](#features)
