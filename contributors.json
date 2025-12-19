@@ -1,0 +1,26 @@
+{
+  "contributors": [
+    {
+      "name": "Samir Koirala",
+      "role": "Project Creator",
+      "bio": "Passionate about open source and helping new developers start their journey.",
+      "github": "samirkoirala",
+      "twitter": "samirkoirala",
+      "linkedin": "samirkoirala",
+      "website": "https://samirkoirala.com.np",
+      "avatar": "https://avatars.githubusercontent.com/u/1?v=4",
+      "contributions": ["code", "documentation", "review"]
+    },
+    {
+      "name": "Pradip Chapagain",
+      "role": "Contributor",
+      "bio": "Mobile App Developer who loves creating innovative solutions.",
+      "github": "democontributor",
+      "twitter": "democontributor",
+      "linkedin": "democontributor",
+      "website": "https://www.pradipchapagain.com.np/",
+      "avatar": "https://avatars.githubusercontent.com/u/2?v=4",
+      "contributions": ["code", "design"]
+    }
+  ]
+}

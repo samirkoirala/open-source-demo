@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contributors - Open Source Demo</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <button id="theme-toggle" class="theme-toggle" aria-label="Toggle dark mode">
+        <i class="fas fa-moon"></i>
+        <i class="fas fa-sun"></i>
+    </button>
+    <header>
+        <div class="container">
+            <h1><i class="fas fa-code-branch"></i> Open Source Contributors</h1>
+            <p class="subtitle">Welcome to our open-source community! </p>
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="intro">
+            <h2>About This Project</h2>
+            <p>This is a beginner-friendly open-source project where you can make your first contribution! </p>
+            <div class="stats">
+                <div class="stat-card">
+                    <i class="fas fa-users"></i>
+                    <h3 id="contributor-count">0</h3>
+                    <p>Contributors</p>
+                </div>
+                <div class="stat-card">
+                    <i class="fas fa-code-branch"></i>
+                    <h3>Open Source</h3>
+                    <p>MIT License</p>
+                </div>
+                <div class="stat-card">
+                    <i class="fas fa-heart"></i>
+                    <h3>Community</h3>
+                    <p>Beginner Friendly</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="contributors-section">
+            <h2><i class="fas fa-users"></i> Our Amazing Contributors</h2>
+            <div id="contributors-grid" class="contributors-grid">
+                <!-- Contributors will be loaded here dynamically -->
+            </div>
+        </section>
+
+        <section class="contribute">
+            <h2><i class="fas fa-rocket"></i> Want to Contribute?</h2>
+            <p>Check out our <a href="CONTRIBUTING.md">Contributing Guidelines</a> to get started!</p>
+            <a href="https://github.com" class="btn-primary" target="_blank">
+                <i class="fab fa-github"></i> View on GitHub
+            </a>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Open Source Demo Project.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
