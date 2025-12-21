@@ -34,7 +34,7 @@
       "contributions": ["code", "design"]
     },
     {
-      "name": "Rishi Prasad Aryla",
+      "name": "Rishi Prasad Aryal",
       "role": "Contributor",
       "bio": "Software engineer at TAI INC.",
       "github": "democontributor",
@@ -42,6 +42,17 @@
       "linkedin": "democontributor",
       "website": "https://www.rishiprasadaryal.com.np/",
       "avatar": "https://avatars.githubusercontent.com/u/103868419?v=4&size=64",
+      "contributions": ["code", "design"]
+    },
+    {
+      "name": "Pramila Ghimire",
+      "role": "Contributor",
+      "bio": "Student at himlaya colllege.",
+      "github": "democontributor",
+      "twitter": "democontributor",
+      "linkedin": "democontributor",
+      "website": "https://www.pramilaghimire.com.np/",
+      "avatar": "",
       "contributions": ["code", "design"]
     }
   ]
